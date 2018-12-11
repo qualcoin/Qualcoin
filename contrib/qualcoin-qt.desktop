@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=QUA
+Comment=QUA P2P Cryptocurrency
+Comment[fr]=QUA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=QUA, eşten eşe kriptografik sanal para birimi
+Exec=qualcoin-qt %u
+Terminal=false
+Type=Application
+Icon=qualcoin128
+MimeType=x-scheme-handler/qualcoin;
+Categories=Office;Finance;
